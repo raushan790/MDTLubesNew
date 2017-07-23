@@ -62,14 +62,9 @@
             <div class="col-md-4 padding-left-0">
                 <h1><span class="brown">Customer </span> </h1>
                 <h2>Focuss</h2>
-
                 <p style="text-align:justify">MDT Lubes is committed to providing its customers with comprehensive lubrication solutions that suit their needs. Our management philosophy is rooted in our aim of providing maximum customer satisfaction through the continuous improvement in quality, distribution channels & all organizational processes. Innovative perspectives are adopted to encourage new ideas to avoid conservativeness</p>
-
-
             </div>
-
-
-        </div>
+         </div>
     </div>
 
 
