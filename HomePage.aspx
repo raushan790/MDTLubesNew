@@ -26,7 +26,7 @@
 
                 <div class="padding-left-0">
                             <div class="col-md-2"><a href="products.aspx"><img src="../images/carcare.png"><br>Car </a></div>
-                    <div class="col-md-2"><a href="http://www.mdtlubes.com"><img src="../images/automotive.png"><br>Commercial Vehicle </a></div>
+                    <div class="col-md-2"><a href="motorproducts.aspx"><img src="../images/automotive.png"><br>Commercial Vehicle </a></div>
                     <div class="col-md-2"><a href="http://www.mdtlubes.com"><img src="../images/motorcycle.png"><br>Motorcycle & Scooter </a></div>
                     <div class="col-md-2"><a href="http://www.mdtlubes.com"><img src="../images/industrial.png"><br>Industrial Specific</a></div>
                     <div class="col-md-2"><a href="http://www.mdtlubes.com"><img src="../images/greases.png"><br>Industrial Greases </a></div>

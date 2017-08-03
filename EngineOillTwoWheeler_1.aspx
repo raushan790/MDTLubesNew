@@ -191,8 +191,7 @@
 	<li><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif"><strong>50 L</strong></span></span></li>
 	<li><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif"><strong>205 L</strong></span></span></li>
 </ul>
- <p><span style="color:#FF0000"><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">*Pack Size can be customized based on the market demands and requirements.
-</span></span></span></p>
+ <p style="width:500px"><span style="color:#FF0000"><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">*Pack Size can be customized based on the market demands and requirements.</span></span></span></p>
 </div>
                 </div>
 				</div>    
